@@ -4,7 +4,7 @@ A fully functional real-time chat application built using the MERN stack, Socket
 
 ## 🚀 Live Demo
 
-Check out the deployed app here: [https://realtime-chat-app-3qv7.onrender.com/](realtime-chatting)
+Check out the deployed app here: [chatty-app](https://realtime-chat-app-3qv7.onrender.com/)
 
 ## 🔥 Highlights
 
